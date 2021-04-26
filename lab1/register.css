@@ -1,0 +1,47 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    background: url("image/background.jpg");
+}
+.font40{font-size: 40px;}
+.input{    
+    height: 27px;
+    width: 300px;
+    border: none;
+    background: #64788a30;
+}
+.register{
+    width: 50%;
+    margin: auto;
+    margin-top: 44px;
+    background: #61acef38;
+    color: wheat;
+    height: 491px;
+}
+.register_email{
+    display: inline-flex;
+    padding: 5px;
+}
+.register_title {
+    padding-bottom: 30px;
+    text-align: center;
+}
+.register_email_text{
+    width: 205px;
+    text-align: right;
+    padding-top: 8px;
+    padding-right: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    padding: 12px 100px;
+    background: red;
+    margin-left: 185px;
+}
+select{
+    background: #64788a30;
+    border: none;
+}
